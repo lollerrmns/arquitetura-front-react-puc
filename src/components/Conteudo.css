@@ -1,0 +1,12 @@
+.row-conteudo{
+    display: flex;
+    width: 100%;
+
+  }
+  .col1-conteudo{
+    width: 30%;
+
+  }.col2-conteudo{
+    width: 70%;
+    
+  }

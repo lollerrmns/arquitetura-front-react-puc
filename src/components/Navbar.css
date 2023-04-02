@@ -1,0 +1,12 @@
+li {
+    display: inline;
+    padding: 5%;
+  }
+  a{
+    color: azure;
+  }
+  .nav-wrapper{
+    display: flex;
+    justify-content: center;
+  }
+  
